@@ -4,7 +4,7 @@
 
 - The training code will be released after this paper be accepted 🚀
 
-![图1](C:\Users\Yyh\Desktop\Git\LGBFM\pics\202406201506510.png)
+[![图1](C:\Users\Yyh\Desktop\Git\LGBFM\pics\202406201506510.png)](https://github.com/csustYyh/LGBFM/blob/main/pics/202406201506510.png)
 
 ![主图-v3](https://496051480-1319142273.cos.ap-guangzhou.myqcloud.com/202406201507334.png)
 
