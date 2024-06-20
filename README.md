@@ -4,10 +4,10 @@
 
 - The training code will be released after this paper be accepted 🚀
 
-[![图1](C:\Users\Yyh\Desktop\Git\LGBFM\pics\202406201506510.png)](https://github.com/csustYyh/LGBFM/blob/main/pics/202406201506510.png)
+![图1](https://496051480-1319142273.cos.ap-guangzhou.myqcloud.com/202406201541262.png)
 
 ![主图-v3](https://496051480-1319142273.cos.ap-guangzhou.myqcloud.com/202406201507334.png)
 
-![CAM对比图-v2](C:\Users\Yyh\Desktop\Git\LGBFM\pics\202406201509782.png) 
+![CAM对比图-v2](https://496051480-1319142273.cos.ap-guangzhou.myqcloud.com/202406201541263.png)
 
-![定性对比图](C:\Users\Yyh\Desktop\Git\LGBFM\pics\202406201510918.png)
+![定性对比图](https://496051480-1319142273.cos.ap-guangzhou.myqcloud.com/202406201541264.png)
