@@ -4,7 +4,7 @@
 
 - The training code will be released after this paper be accepted 🚀
 
-![图1](https://496051480-1319142273.cos.ap-guangzhou.myqcloud.com/202406201541262.png)
+![1](./pics/202406201506510.png)
 
 ![主图-v3](https://496051480-1319142273.cos.ap-guangzhou.myqcloud.com/202406201507334.png)
 
