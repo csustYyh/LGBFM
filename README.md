@@ -6,8 +6,8 @@
 
 ![1](./pics/202406201506510.png)
 
-![主图-v3](https://496051480-1319142273.cos.ap-guangzhou.myqcloud.com/202406201507334.png)
+![2](./pics/image-20240612134813383.png)
 
-![CAM对比图-v2](https://496051480-1319142273.cos.ap-guangzhou.myqcloud.com/202406201541263.png)
+![3](./pics/202406201509782.png)
 
-![定性对比图](https://496051480-1319142273.cos.ap-guangzhou.myqcloud.com/202406201541264.png)
+![4](./pics/202406201510918.png)
